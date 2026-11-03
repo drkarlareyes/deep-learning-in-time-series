@@ -36,9 +36,10 @@ The recordings are not included. The notebooks were written for Google Colab and
 
 Python 3 with TensorFlow 2, NumPy, pandas, scikit-learn, matplotlib, seaborn and mlxtend.
 
-## Related publication
+## Related publications
 
-Jaén-Vargas M, Reyes-Leiva KM, Fernandes F, Serrano Olmedo JJ. Effects of sliding window variation in the performance of acceleration-based human activity recognition using deep learning models. *PeerJ Computer Science* 8:e1052 (2022). https://doi.org/10.7717/peerj-cs.1052
+- Jaén-Vargas M, Reyes Leiva K, Fernandes F, Gonçalves SB, Tavares Silva M, Lopes DS, Serrano Olmedo J. A deep learning approach to recognize human activity using inertial sensors and motion capture systems. *Fuzzy Systems and Data Mining VII*, IOS Press, 250-256 (2021). https://doi.org/10.3233/FAIA210196
+- Jaén-Vargas M, Reyes-Leiva KM, Fernandes F, Serrano Olmedo JJ. Effects of sliding window variation in the performance of acceleration-based human activity recognition using deep learning models. *PeerJ Computer Science* 8:e1052 (2022). https://doi.org/10.7717/peerj-cs.1052
 
 ## Author
 
